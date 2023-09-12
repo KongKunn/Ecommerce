@@ -1,0 +1,14 @@
+.container{
+    height: 16vh;
+}
+
+.head{
+    background-color:var(--headercolor);
+    display: flex;
+    align-items: center;
+    justify-content:  space-between;
+    margin-bottom: 2px;
+}
+.logo{
+    
+}
