@@ -1,5 +1,6 @@
 .container{
     height: 16vh;
+    color: #fff;
 }
 
 .head{
@@ -8,7 +9,4 @@
     align-items: center;
     justify-content:  space-between;
     margin-bottom: 2px;
-}
-.logo{
-    
 }

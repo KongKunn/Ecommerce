@@ -15,7 +15,6 @@
     width: 100%;
     border-radius: 8px;
     border: 1px solid rgb(176 190 197);
-    /* background-color: transparent; */
     padding-left: 10px;
     font-size: 0.875rem;
     line-height: 1.25rem;
@@ -30,8 +29,6 @@
 }
 
 .invite-btn {
-    /* margin-top: 20px; */
-    /* padding-top: 20px; */
     position: absolute;
     width: 65px;
     right: 4px;
@@ -41,7 +38,6 @@
     border-radius: 4px;
     background-color: rgb(6, 9, 161);
     color: #fff;
-    /* padding-top: 0.25rem; */
     padding-bottom: 0.25rem;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
